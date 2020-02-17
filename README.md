@@ -1,0 +1,1 @@
+# webpack-autojs-xml-replace-curlybraces
