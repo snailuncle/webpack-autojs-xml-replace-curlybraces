@@ -1,0 +1,11 @@
+{
+  "name": "webpack-autojs-xml-replace-curlybraces",
+  "version": "1.0.0",
+  "description": "用于 webpack 打包时, autojs 的 xml文件的预处理, 这是一个 loader    \r 仅用于将`{{变量}}`替换为值",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
